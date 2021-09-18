@@ -17,7 +17,7 @@
 ----------------------------------------------------------------------------------------------------
 
 ### Funcionamiento
-14-septiembre-2021: NumPasos_MonedaDefectuosa: Encuentra tanto teóricamente como experimentalmente el número de pasos promedio para encontrar una moneda defectuosa en un conjunto de monedas no defectuosas y defectuosas
+18-septiembre-2021: NumPasos_MonedaDefectuosa: Encuentra tanto teóricamente como experimentalmente el número de pasos promedio para encontrar una moneda defectuosa en un conjunto de monedas no defectuosas y defectuosas
  
 ----------------------------------------------------------------------------------------------------
 
